@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Thales, tenho 17 anos, sou de em São Paulo</p>
+<p align="left">My name is Thales, I'm 17 years old, I'm from Brasil (São Paulo) </p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻I study programming since: 30/01/2023<br>📚 I'm currently learning: MySQL + PhP<br>🎯 Goals: Iniciar projetos</p>
+<p align="left">💻my first contact with programming was on the day: 30/01/2023<br>📚 I'm currently learning: MySQL + PhP<br>🎯 Goals: Iniciar projetos</p>
 
 ###
 
