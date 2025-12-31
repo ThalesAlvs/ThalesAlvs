@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻my first contact with programming was on the day: 30/01/2023<br>📚 I'm currently learning: MySQL + PhP<br>🎯 Goals: Iniciar projetos</p>
+<p align="left">💻my first contact with programming was on the day: 30/01/2023<br>📚 I'm currently learning: JAVA <br>🎯 Goals: Iniciar projetos</p>
 
 ###
 
