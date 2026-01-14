@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Thales, I'm 17 years old, I'm from Brasil (São Paulo) </p>
+<p align="left">My name is Thales, I'm 17 years old, I'm from Brasil (SP) </p>
 
 ###
 
